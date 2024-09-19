@@ -70,17 +70,29 @@ logo-ai/
 部署与运行：
 
 1. 克隆仓库：
+
+```
    git clone git@github.com:geallenboy/logo-ai.git
    cd logo-ai
+```
 
 2. 安装依赖：
+
+```
    npm install
+```
 
 3. 启动开发服务器：
+
+```
    npm run dev
+```
 
 4. 构建生产版本：
+
+```
    npm run build
+```
 
 ---
 
